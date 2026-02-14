@@ -953,7 +953,7 @@ Thank you for choosing me. Thank you for being patient with me, for making me la
 I promise to keep making you smile, to support your dreams, and to love you through every season. You are my today and all of my tomorrows.
 
 Forever and always yours,
-Thirrey ❤️`;
+Thierry ❤️`;
 
   useEffect(() => {
     if (!isInView) return;
