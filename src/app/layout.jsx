@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "A Special Package for Fey Fey",
+  title: "A Special Package for My Beautiful Loveeeeee",
   description: "...",
 };
 
